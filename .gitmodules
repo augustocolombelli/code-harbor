@@ -1,0 +1,3 @@
+[submodule "k8s-liquibase-mongodb"]
+	path = k8s-liquibase-mongodb
+	url = https://github.com/augustocolombelli/k8s-liquibase-mongodb
