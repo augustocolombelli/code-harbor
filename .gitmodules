@@ -1,3 +1,6 @@
 [submodule "k8s-liquibase-mongodb"]
 	path = k8s-liquibase-mongodb
 	url = https://github.com/augustocolombelli/k8s-liquibase-mongodb
+[submodule "git-practice-rebase-blog-example"]
+	path = git-practice-rebase-blog-example
+	url = https://github.com/augustocolombelli/git-practice-rebase-blog-example
