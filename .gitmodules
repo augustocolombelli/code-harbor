@@ -4,3 +4,6 @@
 [submodule "git-practice-rebase-blog-example"]
 	path = git-practice-rebase-blog-example
 	url = https://github.com/augustocolombelli/git-practice-rebase-blog-example
+[submodule "books-solr-ms"]
+	path = books-solr-ms
+	url = https://github.com/augustocolombelli/books-solr-ms
