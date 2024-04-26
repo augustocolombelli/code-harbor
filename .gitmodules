@@ -7,3 +7,6 @@
 [submodule "books-solr-ms"]
 	path = books-solr-ms
 	url = https://github.com/augustocolombelli/books-solr-ms
+[submodule "pact-contract-test"]
+	path = pact-contract-test
+	url = git@github.com:augustocolombelli/pact-contract-test.git
